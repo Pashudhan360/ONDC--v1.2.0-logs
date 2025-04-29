@@ -13,8 +13,8 @@
                 }
             },
             "transaction_id": "9cce8e7f-e899-47ab-a9be-d60f7b85bd4c",
-            "message_id": "87eae017-ab20-4479-a703-97860b5e3cac",
-            "timestamp": "2025-04-28T06:48:29.747Z",
+            "message_id": "f9a2a346-dad0-46eb-9206-7d1b9b2c0aa1",
+            "timestamp": "2025-04-28T09:48:29.747Z",
             "domain": "ONDC:NTS10",
             "version": "2.0.0",
             "ttl": "P1D",
@@ -59,7 +59,8 @@
                                 "currency": "INR",
                                 "diff_value": "0.00"
                             },
-                            "updated_at": "2025-04-28T06:28:49.728Z"
+                            "updated_at": "2025-04-28T06:28:49.728Z",
+                            "due_date": "2025-04-21"
                         }
                     ]
                 }
